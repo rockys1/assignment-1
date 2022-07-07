@@ -1,0 +1,166 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.back-style{
+    background-image: url(images/donation9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+#font-style{
+    font-family: 'Caveat', cursive;
+    font-size: 70px;
+    color: rgb(191, 255, 1);
+    text-shadow: 1px 1px 2px black;
+    
+}
+.color-add{
+    color: azure;
+    text-shadow: 2px 2px 4px rgb(46, 45, 45);
+    font-size: 20px;
+}
+.position{
+    padding-top: 10%;
+    padding-bottom: 20%;
+    text-align: center;
+}
+
+.button-style{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(205, 255, 4), rgb(44, 85, 3));
+    padding: 15px 30px;
+    color: aliceblue;
+    font-weight: 700px;
+    border-radius: 40px; 
+    
+}
+
+.gave{
+    margin-top: 10%;
+}
+.font-big{
+    font-size: 40px;
+}
+.set-position{
+    text-align: center;
+}
+.box-line{
+    display: flex;
+}
+.inline-box1{
+    border-radius: 10px;
+    padding: 20px;
+    margin-left: 20%;
+    text-align: center;
+   
+    font-size: 30px;
+}
+.inline-box2{
+    border: 5px solid rgb(183, 255, 1);
+    background-color: rgb(236, 255, 205);
+    border-radius: 10px;
+    padding: 20px;
+    margin-left: 2%;
+    text-align: center;
+  
+    font-size: 30px;
+}
+#add-color{
+    color: rgb(113, 153, 4);
+}
+.inline-box3{
+    border-radius: 10px;
+    padding: 20px;
+    margin-left: 2%;
+    text-align: center;
+    font-size: 30px;
+}
+.inline-box4{
+    border-radius: 10px;
+    padding: 20px;
+    margin-left: 2%;
+    text-align: center;
+    font-size: 30px;
+}
+.inline-box5{
+    border-radius: 10px;
+    padding: 20px;
+    margin-left: 2%;
+    margin-right: 20%;
+    text-align: center;
+    font-size: 30px;
+}
+.other-col{
+    text-align: center;
+    color: rgb(188, 189, 178);
+}
+hr{
+    width: 76%;
+    margin-left: 14%;
+    border-width: 2px;
+}
+
+.side-line{
+    background-color: rgb(236, 255, 205);
+    border : 2px solid rgb(236, 255, 205);
+    border-radius: 10px;
+    padding: 30px;
+    margin-top: 5%;
+    margin-left: 5%;
+    text-align: center;
+    width: 30%;
+}
+.side-line1{
+    background-color: rgb(255, 215, 244);
+    border : 2px solid rgb(255, 215, 244) ;
+    border-radius: 10px;
+    padding: 3%;
+    margin-top: 5%;
+    margin-left: 3%;
+    text-align: center;
+    width: 30%;
+}
+.side-line2{
+    background-color: rgb(213, 235, 255);
+    border : 2px solid rgb(213, 235, 255);
+    border-radius: 10px;
+    margin-top: 5%;
+    padding: 3%;
+    margin-left: 3%;
+    margin-right: 5%;
+    text-align: center;
+    width: 30%;
+    
+}
+
+.text-style{
+    width: 40%;
+    margin-left: 15%;
+    text-align: justify;
+}
+.aline{
+    text-align: left;
+}
+.resize{
+    width: 50%;
+    margin-right: 5%;
+    margin-left: 10%;
+}
+
+.text-position{
+    text-align: center;
+    background-color: rgb(1, 31, 1);
+    padding-top: 40px;
+}
+.color-white{
+    color: rgb(135, 154, 169);
+    font-size: 30px;
+    font-family: 'Marck Script', cursive;
+}
+#col-org{
+    color: rgb(255, 153, 0);
+}
+#col-gray{
+    color: rgb(245, 255, 222);
+}
